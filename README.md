@@ -1,5 +1,5 @@
-# 👋 Hi! I'm Adarsh Arya  
-
+<center>👋 Hi! I'm Adarsh Arya</center>
+<p>ML engineer | MERN Stack Developer | Freelance Video Editor</p>
 # 💫 About Me:
 🔭 I’m currently working on MERN projects & DS/Algo<br>👯 I’m looking to collaborate on Open-source & backend tools<br>🤝 I’m looking for help with System design & optimization<br>🌱 I’m currently learning Machine Learning & backend engineering<br>💬 Ask me about MERN, APIs, web dev, SEO<br>⚡ Fun fact Debugging feels easier with music 🎧
 
